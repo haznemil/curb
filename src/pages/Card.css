@@ -1,0 +1,7 @@
+.cards{
+    width: 30rem;
+    padding: 5px;
+}
+.cards :hover{
+    transform: scale(1.2);
+}
